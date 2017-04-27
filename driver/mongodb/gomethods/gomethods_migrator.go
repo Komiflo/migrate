@@ -7,8 +7,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/mattes/migrate/driver"
-	"github.com/mattes/migrate/file"
+	"github.com/komiflo/migrate/driver"
+	"github.com/komiflo/migrate/file"
 )
 
 type MethodNotFoundError string
